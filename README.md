@@ -17,3 +17,8 @@
 <br/>
 <br/>
 
+## Login page has both Phone and Google auth.
+---
+<img src="git/login.png" 
+     alt="Logo">
+
