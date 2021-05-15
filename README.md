@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-## Login page has both Phone and Google auth.
+### Login page has both Phone and Google auth.
 ---
 <img src="git/login.png" 
      alt="Logo" height="400px">
@@ -30,3 +30,33 @@
      alt="Logo" height="400px"> `--------->`
 <img src="git/address.png" 
      alt="Logo" height="400px">
+
+<br/>
+
+### This the Home page with each item containing its own weight and price. There is also a Profile page which shows all of the users details.
+---
+<img src="git/home.png" 
+     alt="Logo" height="400px"> `------>`
+<img src="git/weights.png" 
+     alt="Logo" height="400px">`------>`
+<img src="git/profile.png" 
+     alt="Logo" height="400px">
+
+<br/>
+
+### These are the Cart and Order history pages. The order history pages contains any of your previous orders.
+---
+<img src="git/cart.png" 
+     alt="Logo" height="400px"> `--------->`
+<img src="git/orderHistory.png" 
+     alt="Logo" height="400px">
+
+<br/>
+
+### This is the Checkout page. Here you can pay with cash or with paytm.The paytm page takes in either your wallet or your bank details. 
+---
+<img src="git/checkout.png" 
+     alt="Logo" height="400px"> `--------->`
+<img src="git/paytm.png" 
+     alt="Logo" height="400px">
+
