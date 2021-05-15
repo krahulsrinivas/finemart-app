@@ -4,7 +4,7 @@
      alt="Logo" width="200">
 
 
-### Finemart is a full stack app built on flutters incredible ui. It is an E-commerce grocery supermarket app. The store is located in Marathalli Bangalore.
+### Finemart is a full stack app built on flutters incredible ui. It is an E-commerce grocery supermarket app. The store is located in Marathalli Bangalore. The store consists of everyday products and at reasonable prices.
 <br/>
 
 ## Stack used (MERN)
