@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1069993889095",
+    "firebase_url": "https://fine-mart-supermarket.firebaseio.com",
+    "project_id": "fine-mart-supermarket",
+    "storage_bucket": "fine-mart-supermarket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069993889095:android:87105391d2a9eb76ab1062",
+        "android_client_info": {
+          "package_name": "com.intern.finemart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069993889095-thjnp47squnvc6jc6t0ccno1dk9g6mu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQdWy0oTJC42UdX0B8TmZM6gqYQk2TunA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069993889095-thjnp47squnvc6jc6t0ccno1dk9g6mu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

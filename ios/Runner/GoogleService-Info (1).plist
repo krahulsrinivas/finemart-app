@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1086211809830-d1l9rvvuf1549hj27rfjp7th504iluq5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1086211809830-d1l9rvvuf1549hj27rfjp7th504iluq5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1086211809830-gapp62l1v9p3j65snfmjm0iui9kt53l1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjh5nk5WhHZ7eGBe6WZCkJm5ODZ_JNEso</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1086211809830</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.intern.finemart</string>
+	<key>PROJECT_ID</key>
+	<string>fine-mart-52510</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fine-mart-52510.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1086211809830:ios:e98334acdafc009815fce7</string>
+	<key>DATABASE_URL</key>
+	<string>https://fine-mart-52510.firebaseio.com</string>
+</dict>
+</plist>
