@@ -7,13 +7,12 @@
 ### Finemart is a full stack app built on flutters incredible ui. It is an E-commerce grocery supermarket app. The store is located in Marathalli Bangalore. The store consists of everyday products and at reasonable prices.
 <br/>
 
-## Stack used (MERN)
+## Stack used 
 
-* React in the frontend (React Hooks).
-* Semantic Ui for external and prebuilt css.
-* Node.js for our javascript server.
-* MongoDB (Atlas) for our NoSQL database.
-* Express.js (framework for Node.js) used for building clear REST APIs 
+* Flutter for Frontend.
+* Firebase as the database and server.
+* Firebase-Functions for small lambda cloud functions.
+* Mongodb for Full-Text search.
 
 <br/>
 <br/>
