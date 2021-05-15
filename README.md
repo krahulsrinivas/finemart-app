@@ -20,5 +20,5 @@
 ## Login page has both Phone and Google auth.
 ---
 <img src="git/login.png" 
-     alt="Logo">
+     alt="Logo" height="400px">
 
